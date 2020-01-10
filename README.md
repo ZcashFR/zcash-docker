@@ -1,7 +1,7 @@
 
-# Docker Zcash Full Node v2.0.1
+# Docker Zcash Full Node v2.1.0-1
 
-Official Zcash full node build from zcash source. Docker image based on debian stretch-slim.
+Zcash full node build from official Zcash source. Docker image based on debian stretch-slim.
 
 ## Getting Started
 
