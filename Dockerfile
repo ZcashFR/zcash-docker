@@ -2,7 +2,7 @@ FROM debian:stretch as debian
 MAINTAINER LeBleu :: ZcashFR.io
 
 ENV     ZCASH_URL=https://github.com/zcash/zcash.git \
-        ZCASH_VERSION=v2.1.1-1 \
+        ZCASH_VERSION=v3.0.0 \
         ZCASH_CONF=/home/zcash/.zcash/zcash.conf
 
 
